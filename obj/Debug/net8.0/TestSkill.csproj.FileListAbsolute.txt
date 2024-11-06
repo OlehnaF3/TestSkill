@@ -1,0 +1,14 @@
+D:\Новая папка\TestSkill\obj\Debug\net8.0\TestSkill.GeneratedMSBuildEditorConfig.editorconfig
+D:\Новая папка\TestSkill\obj\Debug\net8.0\TestSkill.AssemblyInfoInputs.cache
+D:\Новая папка\TestSkill\obj\Debug\net8.0\TestSkill.AssemblyInfo.cs
+D:\Новая папка\TestSkill\obj\Debug\net8.0\TestSkill.csproj.CoreCompileInputs.cache
+D:\Новая папка\TestSkill\bin\Debug\net8.0\TestSkill.exe
+D:\Новая папка\TestSkill\bin\Debug\net8.0\TestSkill.deps.json
+D:\Новая папка\TestSkill\bin\Debug\net8.0\TestSkill.runtimeconfig.json
+D:\Новая папка\TestSkill\bin\Debug\net8.0\TestSkill.dll
+D:\Новая папка\TestSkill\bin\Debug\net8.0\TestSkill.pdb
+D:\Новая папка\TestSkill\obj\Debug\net8.0\TestSkill.dll
+D:\Новая папка\TestSkill\obj\Debug\net8.0\refint\TestSkill.dll
+D:\Новая папка\TestSkill\obj\Debug\net8.0\TestSkill.pdb
+D:\Новая папка\TestSkill\obj\Debug\net8.0\TestSkill.genruntimeconfig.cache
+D:\Новая папка\TestSkill\obj\Debug\net8.0\ref\TestSkill.dll
