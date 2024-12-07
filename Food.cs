@@ -1,0 +1,7 @@
+﻿namespace TestSkill
+{
+    class Food
+    {
+
+    }
+}
