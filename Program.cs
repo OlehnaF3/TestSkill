@@ -7,6 +7,8 @@ namespace Prog
     {
         public static void Main(string[] args)
         {
+            Obj obj = new Obj();
+
         }
         //public static void Deep(string stringEcho,int deepEcho,int indexStart = 0)
         //{
